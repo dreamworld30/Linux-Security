@@ -143,7 +143,7 @@ Disk encryption protects stored data from unauthorized access, particularly in t
 
 # **Operating System Security on Linux**
 
-Keeping your Linux system secure involves more than just installing software—it’s about maintaining updates, controlling malware, monitoring system health, and enforcing strict access policies. Here’s a comprehensive guide.
+Keeping your Linux system secure involves more than just installing software; it’s about maintaining updates, controlling malware, monitoring system health, and enforcing strict access policies. Here’s a comprehensive guide.
 
 ---
 
